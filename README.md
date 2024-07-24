@@ -1,0 +1,3 @@
+# spcalc
+
+Simples calculadora
