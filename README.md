@@ -1,3 +1,3 @@
 # spcalc
 
-Simples calculadora
+Calculadora simples escrita em C
